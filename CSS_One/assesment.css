@@ -1,0 +1,51 @@
+body {
+    background-color:#b0e0e6;
+}
+
+h1 {
+    border: 1px solid black;
+}
+
+div p{
+    background:#fffca5;
+}
+
+h2 {
+    color: purple;
+}
+
+#itemone {
+    color: purple;
+    text-decoration: overline;
+}
+
+.blogtext {
+    border: 2px solid grey;
+}
+
+#textblock {
+    border: 5px solid gray;
+  width: 800px;
+  height: 400px;
+}
+
+input{
+  border: 2px solid rgb(144, 0, 0);
+}
+
+input[type="submit"] {
+    border: 1px red solid;
+}
+
+.exit {
+    background-color: blue;
+    border: 5px yellow dashed;
+}
+
+a{
+  color: red;
+}
+
+a:visited{
+  color:blue
+}
